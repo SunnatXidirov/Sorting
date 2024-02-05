@@ -1,2 +1,9 @@
 # Sorting
 Bubble sort
+Insertion sort
+Selection sort 
+Quick sort
+Merge sort
+Radix sort
+Linear sort
+Binary sort
